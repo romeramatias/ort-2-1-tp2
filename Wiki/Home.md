@@ -1,6 +1,5 @@
-# ORT-2-1-TP2
+Bienvenido a la wiki de TP2!
 
-Guia de Tematicas:
 * [Nodejs](/ORT-PabloFernandez/TP2A/wiki/nodejs)
 * [V8](/ORT-PabloFernandez/TP2A/wiki/v8)
 * [NPM](/ORT-PabloFernandez/TP2A/wiki/NPM)

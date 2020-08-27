@@ -43,6 +43,9 @@ let primer = nombres.shift();
 nombres.unshift('Anna');
 
 let posicion = nombres.indexOf('Elena');
+console.log();
+console.log(posicion);
+
 
 // remover elementos 
 nombres.splice(2, 1);
@@ -50,7 +53,6 @@ nombres.splice(2, 1);
 // arrays son objetos, por tanto van por referencia
 
 let nombresNuevo = nombres.slice();
-
 
 nombres.sort();
 console.log(nombres);
