@@ -1,7 +1,7 @@
 # ORT-2-1-TP2
 
 Guia de Tematicas:
-* [Nodejs](/Wiki/NodeJs.md)
+* [Nodejs](/Wiki/NodeJS.md)
 * [V8](/Wiki/v8)
 * [NPM](/Wiki/NPM)
 * [ECMAScript](/Wiki/ECMAScript)
