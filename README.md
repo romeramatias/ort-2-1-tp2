@@ -1,8 +1,9 @@
 # ORT-2-1-TP2
 
 Guia de Tematicas:
-* [Nodejs](/ORT-PabloFernandez/TP2A/wiki/nodejs)
-* [V8](/ORT-PabloFernandez/TP2A/wiki/v8)
-* [NPM](/ORT-PabloFernandez/TP2A/wiki/NPM)
-* [ECMAScript](/ORT-PabloFernandez/TP2A/wiki/ECMAScript)
-* [Hackerrank](/ORT-PabloFernandez/TP2A/wiki/Hackerrank)
+* [Nodejs](/romeramatias/ort-2-1-tp2/master/Wiki/nodejs)
+* [V8](/romeramatias/ort-2-1-tp2/master/Wiki/v8)
+* [NPM](/romeramatias/ort-2-1-tp2/master/Wiki/NPM)
+* [ECMAScript](/romeramatias/ort-2-1-tp2/master/Wiki/ECMAScript)
+* [Hackerrank](/romeramatias/ort-2-1-tp2/master/Wiki/Hackerrank)
+* [Cliente-Servidor](/romeramatias/ort-2-1-tp2/master/Wiki/ClienteServidor)
