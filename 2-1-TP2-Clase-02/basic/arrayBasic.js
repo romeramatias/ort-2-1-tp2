@@ -54,6 +54,7 @@ nombres.splice(2, 1);
 
 let nombresNuevo = nombres.slice();
 
+// Ordena el array ascendente segun los caracteres, alfabeticamente
 nombres.sort();
 console.log(nombres);
 
