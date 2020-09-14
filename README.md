@@ -1,5 +1,7 @@
 # ORT-2-1-TP2
 
+El objetivo es crear una API Rest
+
 Guia de Tematicas:
 * [ECMAScript](/Wiki/ECMAScript.md)
 * [Nodejs](/Wiki/NodeJS.md)
