@@ -1,7 +1,6 @@
 const fs = require("fs");
 const path = "./inventors.json";
 
-
 // Leo el archivo
 fs.readFile(path, "utf8", (err, data) => {
    if (!err) {
