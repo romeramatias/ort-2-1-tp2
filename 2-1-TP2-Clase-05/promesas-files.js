@@ -5,8 +5,8 @@
 // 5.- Mostrarmos en consola el listado.
 
 // Llama a promesas??
-//import { promises as fs } from "fs";
-const fs = require('fs').promises;
+// import { promises as fs } from "fs";
+const fs = require("fs").promises;
 const path = "./inventors.json";
 
 // Que sentido tiene que pare la ejecucion de un programa con el await
@@ -27,14 +27,14 @@ async function operacionInventors() {
       });
 
       // Escribo el archivo como string con el inventor nuevo
-      data = JSON.stringify(data, null, ' ')
+      data = JSON.stringify(data, null, " ");
       // Uso await en read y write xq puede tardar un tiempo en hacer la ejecucion
       // Args: Archivo a escribir, datos enviados
       await fs.writeFile(path, data);
-      console.log(await fs.readFile(path, 'utf8'));
-    } catch (error) {
-        console.log('Hubo un error');
-    }
+      console.log(await fs.readFile(path, "utf8"));
+   } catch (error) {
+      console.log("Hubo un error");
+   }
 }
 
 operacionInventors();

@@ -6,7 +6,7 @@ const { promises } = require("fs");
 const prom = new Promise((resolve, reject) => {
    setTimeout(() => {
       // Aca se ejecuta el callback, por resolve o reject
-      //resolve([1, 9, 5]);
+      // resolve([1, 9, 5]);
       reject("Errooooooor");
    }, 2000);
 });
