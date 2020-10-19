@@ -1,9 +1,9 @@
 # ORT-2-1-TP2
 
-El objetivo es crear una API Rest
+En Taller de Programación 2, llevaremos a cabo un proyecto en el cual el objetivo será crear una API Rest
 
 Guia de Tematicas:
-* [ECMAScript](/Wiki/ECMAScript.md)
+* [ECMAScript 6](/Wiki/ECMAScript.md)
 * [Nodejs](/Wiki/NodeJS.md)
 * [Git](/Wiki/Git.md)
 * [NPM](/Wiki/NPM.md)
