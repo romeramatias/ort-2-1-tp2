@@ -1,0 +1,95 @@
+{
+   "inventors": [
+      {
+         "_id": 1,
+         "first": "Albert",
+         "last": "Einstein",
+         "year": 1879,
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/220px-Albert_Einstein_Head.jpg"
+      },
+      {
+         "_id": 2,
+         "first": "Isaac",
+         "last": "Newton",
+         "year": 1643,
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sir_Isaac_Newton_%281643-1727%29.jpg/220px-Sir_Isaac_Newton_%281643-1727%29.jpg"
+      },
+      {
+         "_id": 3,
+         "first": "Galileo",
+         "last": "Galilei",
+         "year": 1564,
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/220px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg"
+      },
+      {
+         "_id": 4,
+         "first": "Marie",
+         "last": "Curie",
+         "year": 1867,
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Marie_Curie%2C_portrait%2C_1900.jpg/220px-Marie_Curie%2C_portrait%2C_1900.jpg"
+      },
+      {
+         "_id": 5,
+         "first": "Johannes",
+         "last": "Kepler",
+         "year": 1571,
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Johannes_Kepler_1610.jpg/250px-Johannes_Kepler_1610.jpg"
+      },
+      {
+         "_id": 6,
+         "first": "Nicolaus",
+         "last": "Copernicus",
+         "year": 1473,
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nikolaus_Kopernikus.jpg/240px-Nikolaus_Kopernikus.jpg"
+      },
+      {
+         "_id": 7,
+         "first": "Max",
+         "last": "Planck",
+         "year": 1858,
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bundesarchiv_Bild_183-R0116-504%2C_Max_Planck.jpg/220px-Bundesarchiv_Bild_183-R0116-504%2C_Max_Planck.jpg"
+      },
+      {
+         "_id": 10,
+         "first": "Steve",
+         "last": "Jobs",
+         "year": 1867,
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Marie_Curie%2C_portrait%2C_1900.jpg/220px-Marie_Curie%2C_portrait%2C_1900.jpg"
+      },
+      {
+         "_id": 21,
+         "first": "Matias",
+         "last": "Romera",
+         "year": 1996,
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/220px-Albert_Einstein_Head.jpg"
+      },
+      {
+         "_id": 21,
+         "first": "Matias",
+         "last": "Romera",
+         "year": 1996,
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/220px-Albert_Einstein_Head.jpg"
+      },
+      {
+         "_id": 21,
+         "first": "Matias",
+         "last": "Romera",
+         "year": 1996,
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/220px-Albert_Einstein_Head.jpg"
+      },
+      {
+         "_id": 21,
+         "first": "Matias",
+         "last": "Romera",
+         "year": 1996,
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/220px-Albert_Einstein_Head.jpg"
+      },
+      {
+         "_id": 21,
+         "first": "Matias",
+         "last": "Romera",
+         "year": 1996,
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/220px-Albert_Einstein_Head.jpg"
+      }
+   ]
+}
