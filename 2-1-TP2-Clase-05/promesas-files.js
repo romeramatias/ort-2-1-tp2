@@ -6,8 +6,8 @@
 
 // Llama a promesas??
 // import { promises as fs } from "fs";
-const fs = require("fs").promises;
-const path = "./inventors.json";
+   const fs = require("fs").promises;
+   const path = "./inventors.json";
 
 // Que sentido tiene que pare la ejecucion de un programa con el await
 // en programacion asincrona???? ya que sirve para seguir ejecutando
